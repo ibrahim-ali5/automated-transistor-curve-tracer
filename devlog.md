@@ -13,5 +13,6 @@ Today I set up the initial GitHub repository for this project. Wrote `tools.md` 
 
 
 ### 05-29-2026
-Roadmap complete (`roadmap.md`), gonna start phase 1 soon.
-<br><br>
+Roadmap complete (`roadmap.md`).
+Started phase 1, verified PlatformIO works by wiring external LED blinking with 220Ω resistor on pin 8. 
+
