@@ -14,5 +14,5 @@ Today I set up the initial GitHub repository for this project. Wrote `tools.md` 
 
 ### 05-29-2026
 Roadmap complete (`roadmap.md`).
-Started phase 1, verified PlatformIO works by wiring external LED blinking with 220Ω resistor on pin 8, and verified serial monitor. 
+Started phase 1, verified PlatformIO works by wiring external LED blinking with 220Ω resistor on pin 8, verified that reading analog input works, and verified serial monitor. 
 
