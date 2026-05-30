@@ -15,4 +15,9 @@ Today I set up the initial GitHub repository for this project. Wrote `tools.md` 
 ### 05-29-2026
 Roadmap complete (`roadmap.md`).
 Started phase 1, verified PlatformIO works by wiring external LED blinking with 220Ω resistor on pin 8, verified that reading analog input works, and verified serial monitor. 
+<br><br>
 
+
+### 05-30-2026
+Got Python reading serial data from the Arduino. The Arduino sends raw ADC values and calculated voltage from a potentiometer, and the Python script parses these and prints the readings.
+<br><br>
