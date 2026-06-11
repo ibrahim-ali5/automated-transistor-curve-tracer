@@ -39,3 +39,8 @@ This should make future breadboard testing and debugging less chaotic.
 ### 06-08-2026
 
 Took way longer than I expected but now every electronic component I own is labeled and categorized. This should make prototyping and finding parts much easier going forward.
+
+
+### 06-10-2026
+
+Decided to change the main controller from Arduino Uno to ESP32 and restart phase 1, removed old Arduino files.
